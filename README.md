@@ -1,2 +1,2 @@
 # Centos
-rclone 开机自启动
+# $ rclone 开机自启动
